@@ -1,5 +1,5 @@
 # College-Projects
-Early C projects
+## Early C projects
 
-Coefficient estimation program
-Simple Encryption program
+* Coefficient estimation program
+* Simple Encryption program
