@@ -1,0 +1,2 @@
+The Life Coach application offers some motivational quotes depending on the choices of the user.
+The user, depending on their choice, can obtain a quote in the desired category or enter a word/word group to obtain a sentence related to the word they enter (the application uses Jaccard Similarity to find this relation).
