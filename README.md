@@ -3,6 +3,7 @@
 
 * Coefficient estimation program
 * Simple Encryption program
+* Linked List basics
 
 ## Arduino Project
 * Lightsaber https://www.youtube.com/watch?v=zM2or5i-LHc
